@@ -1,10 +1,10 @@
 {
-    "name": "My plugin",
+    "name": "Declarative Memory Profiling",
     "version": "0.0.1",
-    "description": "Description of my_plugin.",
+    "description": "Description of declarative_memory_profiling.",
     "author_name": "Me",
     "author_url": "https://mywebsite.me",
-    "plugin_url": "https://github.com/my_name/my_plugin",
+    "plugin_url": "https://github.com/my_name/declarative_memory_profiling",
     "tags": "cat, template, example",
-    "thumb": "https://raw.githubusercontent.com/my_repo_path/my_plugin.png"
+    "thumb": "https://raw.githubusercontent.com/my_repo_path/declarative_memory_profiling.png"
 }

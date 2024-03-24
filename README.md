@@ -1,14 +1,15 @@
-# My plugin
+# Declarative Memory Profiling
 
-[![awesome plugin](https://custom-icon-badges.demolab.com/static/v1?label=&message=awesome+plugin&color=383938&style=for-the-badge&logo=cheshire_cat_ai)](https://)  
-[![Awesome plugin](https://custom-icon-badges.demolab.com/static/v1?label=&message=Awesome+plugin&color=000000&style=for-the-badge&logo=cheshire_cat_ai)](https://)  
-[![awesome plugin](https://custom-icon-badges.demolab.com/static/v1?label=&message=awesome+plugin&color=F4F4F5&style=for-the-badge&logo=cheshire_cat_black)](https://)
+[![awesome plugin](https://custom-icon-badges.demolab.com/static/v1?label=&message=awesome+plugin&color=383938&style=for-the-badge&logo=cheshire_cat_ai)](https://)
+
+![alt text](declarative_memory_profiling_image.png)
 
 Write here all the useful information about your plugin.
 
 This repository is the template to automate the release of official Cheshire Cat AI plugins. 
 
 ## Usage
+
 
 1. Create a new repository clicking on the `Use this template` button.
 2. Clone your new repo directly in the Cat's `plugins` folder.
